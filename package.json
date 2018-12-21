@@ -1,0 +1,19 @@
+{
+  "name": "toeatlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathy-jp/toeatlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathy-jp/toeatlist/issues"
+  },
+  "homepage": "https://github.com/pathy-jp/toeatlist#readme"
+}
